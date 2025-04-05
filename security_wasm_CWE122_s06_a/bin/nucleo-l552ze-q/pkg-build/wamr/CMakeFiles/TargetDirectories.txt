@@ -1,0 +1,3 @@
+/home/gowonisgood/wasm_runtime_protection_2025_cha11/wasm_runtime_protection_2025/RIOT/examples/security_wasm_CWE122_s06_a/bin/nucleo-l552ze-q/pkg-build/wamr/CMakeFiles/wamr.dir
+/home/gowonisgood/wasm_runtime_protection_2025_cha11/wasm_runtime_protection_2025/RIOT/examples/security_wasm_CWE122_s06_a/bin/nucleo-l552ze-q/pkg-build/wamr/CMakeFiles/edit_cache.dir
+/home/gowonisgood/wasm_runtime_protection_2025_cha11/wasm_runtime_protection_2025/RIOT/examples/security_wasm_CWE122_s06_a/bin/nucleo-l552ze-q/pkg-build/wamr/CMakeFiles/rebuild_cache.dir
